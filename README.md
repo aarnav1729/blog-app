@@ -1,6 +1,8 @@
 # blog-app
 Our responsive Blog App is a modern and user-friendly web application that allows users to create, manage, and share their blog posts. With an intuitive and visually appealing interface, this app provides a seamless experience for both content creators and readers.
 
+Visit it: https://aarnav1729.github.io/blog-app/
+
 Key Features:
 
 Responsive Design: The application is built using the latest web technologies, ensuring a responsive design that adapts to various screen sizes, including mobile, tablet, and desktop devices. Users can access and use the app seamlessly across different platforms.
